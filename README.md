@@ -1,1 +1,1 @@
-This scaffolding for propresence.ai
+This is scaffolding for propresence.ai
